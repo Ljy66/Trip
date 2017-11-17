@@ -1,0 +1,66 @@
+{
+    "errMsg": "success",
+    "retData": [
+        {
+            "scenicSn": null,
+            "scenicName": "文化长廊",
+            "ticket": "0.0",
+            "scenicIntro": "亲爱的，接下来我们看到的是宝墨园历代清官文化长廊，听这个名字可以知道这是个展现廉洁文化的展区，宝墨园是正气廉洁的象征。相信来到这里不仅让亲爱的在游览岭南园林景观的过程中受到廉洁文化的熏陶，更让我们对历代清官产生了一种崇敬之情。在2008年9月，宝墨园被评为“广州廉洁文化教育基地”，2011年广东省廉政教育基地在宝墨园挂牌；2012年11月，“海军廉政文化教育基地”也在宝墨园正式挂牌。",
+            "lat": "",
+            "lon": "",
+            "address": null,
+            "picSrc": "api.365daoyou.cn/file/mimi-001_1417506993579-8eiurxlv.jpg",
+            "voiceList": [
+                {
+                    "scenicVoiceName": "文化长廊",
+                    "styleName": "绅士男神",
+                    "languageName": "中文",
+                    "mp3Url": "api.365daoyou.cn/file/mimi-001_1458532298760-ztvo8hrv.mp3"
+                },
+                {
+                    "scenicVoiceName": "文化长廊",
+                    "styleName": "御姐女神",
+                    "languageName": "中文",
+                    "mp3Url": "api.365daoyou.cn/file/mimi-001_1458532313943-nfm5qvi8.mp3"
+                }
+            ]
+        },
+        {
+            "scenicSn": null,
+            "scenicName": "文化长廊",
+            "ticket": "1.0",
+            "scenicIntro": "亲爱的，现在我们来到了文化长廊，这里共展出了六块展板，每块展板上都展示出了丰富的内容，接下来小驴儿为您一一讲解这些展板上的内容。\r\n由于此处景点较多，请您打开“详情介绍”或“列表点播”，进入“内部展品解说”，收听更多内容，小驴儿会一直等着您。\r\n",
+            "lat": "",
+            "lon": "",
+            "address": null,
+            "picSrc": "api.365daoyou.cn/file/mimi-001_1427335921981-vxmk2jzg.jpg",
+            "voiceList": [
+                {
+                    "scenicVoiceName": "文化长廊",
+                    "styleName": "绅士男神",
+                    "languageName": "中文",
+                    "mp3Url": "api.365daoyou.cn/file/mimi-001_1458581035057-jlceznnd.mp3"
+                }
+            ]
+        },
+        {
+            "scenicSn": null,
+            "scenicName": "文化长廊、青少年生态环保教育基地",
+            "ticket": "0.0",
+            "scenicIntro": "我们来看到左边长廊，是景区的文化长廊，当中有国家级书法家的真迹，有各级领导的对天马山的关怀，有景区优美风光图片和景区的活动介绍等等。右边就是青少年生态环保教育基地，基地分三部分，第一部分是世界环保标志园，第二是环保身边的100件小事，第三是通过抽象的形式实物反映出破坏生态带来的危害。\r\n",
+            "lat": "",
+            "lon": "",
+            "address": null,
+            "picSrc": "api.365daoyou.cn/file/mimi-001_1446192699862-33fstj1a.jpg",
+            "voiceList": [
+                {
+                    "scenicVoiceName": "文化长廊、青少年生态环保教育基地 ",
+                    "styleName": "御姐女神",
+                    "languageName": "中文",
+                    "mp3Url": "api.365daoyou.cn/file/mimi-001_1458598044376-lzeqh0c2.mp3"
+                }
+            ]
+        }
+    ],
+    "errNum": 0
+}
