@@ -2,6 +2,15 @@
 网址：https://ljy66.github.io/Trip/#/find
 
 
+景点展示，景点详情---完成
+
+搜索功能---完成
+
+
+登录注册功能---验证待完善
+
+
+
 ![](https://github.com/Ljy66/Trip/blob/master/myimg/1.PNG)
 ![](https://github.com/Ljy66/Trip/blob/master/myimg/2.PNG)
 ![](https://github.com/Ljy66/Trip/blob/master/myimg/3.PNG)
